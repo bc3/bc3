@@ -18,9 +18,9 @@ We live in a world of endless content — restaurant recommendations, travel spo
 
 Whether you’re building a list of restaurants to try in Antwerp, collecting travel inspiration, or curating links for a project — Bookm8 keeps it all in one place, beautifully organized.
 
-🌐 Web app: https://bookm8.croughs.xyz/
-📱 iPhone app: https://apps.apple.com/ng/app/bookm8/id6758789210
-💻 Website: https://bookm8-site.croughs.xyz/
+🌐 Web app: https://bookm8.croughs.xyz/<br>
+📱 iPhone app: https://apps.apple.com/ng/app/bookm8/id6758789210<br>
+💻 Website: https://bookm8-site.croughs.xyz/<br>
 
 Would love to hear your feedback — what would you want in a bookmark manager?
 
