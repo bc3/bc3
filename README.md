@@ -1,4 +1,33 @@
 # 💫 About Me:
+
+🚀 Bookm8 — Smart Bookmarking Reimagined
+
+Excited to share something I’ve been building!
+
+Introducing Bookm8 — a smarter way to save and organize the places, links, and ideas that matter to you.
+
+We live in a world of endless content — restaurant recommendations, travel spots, articles, social media posts — but most of it gets lost in browser tabs, chat messages, or forgotten notes. Bookm8 fixes that.
+
+✨ What it does
+	•	📌 Organize bookmarks in a visual kanban layout (pages → sections → bookmarks)
+	•	🗺️ See your saved places on an interactive map
+	•	📱 Share from any app on iPhone — Safari, Instagram, TikTok, you name it
+	•	🤝 Share collections with friends or publish them to the community
+	•	🔗 Paste a social media link and Bookm8 automatically extracts the title, description, and even the location
+	•	⚡ Pro tier for power users — €2.50/month
+
+Whether you’re building a list of restaurants to try in Antwerp, collecting travel inspiration, or curating links for a project — Bookm8 keeps it all in one place, beautifully organized.
+
+🌐 Web app: https://bookm8.croughs.xyz/
+📱 iPhone app: https://apps.apple.com/ng/app/bookm8/id6758789210
+💻 Website: https://bookm8-site.croughs.xyz/
+
+Would love to hear your feedback — what would you want in a bookmark manager?
+
+⸻
+
+💼 Professional Me
+
 👋 Hey there!<br><br>💼 Professional Me<br><br>Check out my work, projects, and professional background here:<br>	•	💼 LinkedIn: https://www.linkedin.com/profile/view?id=88077720&trk=nav_responsive_tab_profile￼<br>	•	💡 Stack Overflow: https://stackoverflow.com/users/3122378/ben-croughs￼<br>	•	🧑‍💻 GitHub: https://github.com/bc3￼<br><br>⸻<br><br>📣 Follow My Updates<br><br>If you enjoy my posts, thoughts, or tech musings, feel free to connect:<br>	•	🐦 Twitter: https://twitter.com/BE_BeeCee￼<br>	•	👍 Facebook: https://www.facebook.com/pages/BC3/232078586817368?ref=bookmarks￼<br>	•	📸 Instagram: https://www.instagram.com/be_beecee/￼<br><br>⸻<br><br>🌈 Non-Work Adventures<br><br>When I’m not coding, you can find me exploring creativity here:<br>	•	📌 Pinterest: http://www.pinterest.com/bencroughs/￼<br>	•	🖨️ 3D Printing Portfolio: https://bc3dprinting.myportfolio.com/￼<br><br>⸻<br><br>☕ Support & Coffee Fuel<br><br>Like what I do? Want to support my 3D printing hobby or just buy me a coffee?<br>	•	❤️ Ko-fi: https://ko-fi.com/bencroughs￼
 
 
